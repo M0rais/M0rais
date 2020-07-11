@@ -1,1 +1,1 @@
-![Editável](https://i.ytimg.com/vi/GN5z4mk5y_M/maxresdefault.jpg)
+![Editável](https://www.publicdomainpictures.net/pictures/210000/velka/bird-singing-at-sunrise.jpg)
