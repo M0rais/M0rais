@@ -3,7 +3,7 @@
 I am Diogo Sousa, people call me either Manu or Morais, currently working on awesome projects with Java and learning new languages.
 I'm the owner of NanoPlugins
 
-[![Website](https://img.shields.io/website?label=nanoplugins.com&style=for-the-badge&url=https%3A%2F%2Fnanoplugins.com)](https://nanoplugins.com)
+[![Website](https://img.shields.io/website?label=nanoplugins.com.br&style=for-the-badge&url=https%3A%2F%2Fnanoplugins.com.br)](https://nanoplugins.com.br)
 [![Gmail Badge](https://img.shields.io/badge/-nanoplugins2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanoplugins2020@gmail.com)](mailto:nanoplugins2020@gmail.com)
 
 ## ⚡ Technologies
