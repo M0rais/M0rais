@@ -9,4 +9,4 @@ I'm the owner of NanoPlugins
 
 ### Languages and Tools:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=m0rais&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rais&hide=TeX&layout=compact)
+![Top Langs🤓](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rais&hide=TeX&layout=compact)
