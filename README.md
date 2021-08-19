@@ -20,7 +20,7 @@ My name is Diogo Sousa, I'm 18 years old.
 
 ### 💬 Contact
 </br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-<string>DMMS#1109</string>
+<string>DMMS#4886</string>
 
 
 ### Stats
