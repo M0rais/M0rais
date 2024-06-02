@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Diogo Sousa, I'm 19 years old.
+My name is Diogo Sousa, I'm 21 years old.
 
 ### 📋 Technologies:
 
